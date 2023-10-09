@@ -1,6 +1,7 @@
 # OneMusty.github.io
 My website
-<a href="https://www.bing.com" class="button">Go to Bing</a>
+
+<a href="https://sites.google.com/view/gameium-plus/" class="button">Go to Gplus</a>
 <style>
 .button {
   display: inline-block;
