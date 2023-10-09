@@ -1,6 +1,6 @@
-# OneMusty.github.io
+# OneMusty
 My website
-
+#
 <a href="https://sites.google.com/view/gameium-plus/" class="button">Go to Gplus</a>
 <style>
 .button {
