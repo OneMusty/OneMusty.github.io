@@ -6,7 +6,18 @@ My website
 .button {
   display: inline-block;
   padding: 10px 20px;
-  background-color: blue;
+  background-color: gold;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+</style>
+<a href="https://sites.google.com/view/stuffiumplus/home" class="button">Go to Splus</a>
+<style>
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: orange;
   color: white;
   text-decoration: none;
   border-radius: 5px;
