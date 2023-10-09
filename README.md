@@ -1,22 +1,56 @@
-# OneMusty.github.io
-My website
-<!--Button-->
-<center>
- <table align="center" cellspacing="0" cellpadding="0" width="100%">
-   <tr>
-     <td align="center" style="padding: 10px;">
-       <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
-         <tr>
-           <td align="center" bgcolor="#2b3138" style="background-color: #2b3138; margin: auto; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px; " width="100%">
-           <!--[if mso]>&nbsp;<![endif]-->
-               <a href="https://sites.google.com/view/gameium-plus/" target="_blank" style="16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
-                   <span style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; line-height:1.5em; text-align:center;">My site</span>
-             </a>
-           <!--[if mso]>&nbsp;<![endif]-->
-           </td>
-         </tr>
-       </table>
-     </td>
-   </tr>
- </table>
-</center>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Website</title>
+	<style>
+		body {
+			background-color: black;
+			color: white;
+			font-family: Arial, sans-serif;
+		}
+		
+		header {
+			background-color: white;
+			padding: 20px;
+			text-align: center;
+			font-size: 30px;
+			font-weight: bold;
+		}
+		
+		h1 {
+			margin-top: 50px;
+			text-align: center;
+			font-size: 50px;
+			font-weight: bold;
+		}
+		
+		.rectangle {
+			border: 2px solid white;
+			width: 200px;
+			height: 100px;
+			margin: auto;
+			margin-top: 50px;
+			text-align: center;
+			line-height: 100px;
+			font-size: 30px;
+			font-weight: bold;
+            cursor: pointer; /* Add this line to make the rectangle clickable */
+		}
+        
+        /* Add this block of code to change the color of the rectangle when it's clicked */
+        .rectangle:hover {
+            background-color: white;
+            color: black;
+        }
+	</style>
+</head>
+<body>
+	<header>OneMusty.github.io</header>
+	
+	<h1>My website</h1>
+	
+    <!-- Add this line to make the rectangle a link -->
+    <a href="https://www.example.com"><div class="rectangle">My site</div></a>
+	
+</body>
+</html>
