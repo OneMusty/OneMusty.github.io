@@ -1,12 +1,15 @@
 # OneMusty
+
 My website
-#
+
+# 
+
 <a href="https://sites.google.com/view/gameium-plus/" class="button">Go to Gplus</a>
 <style>
 .button {
   display: inline-block;
   padding: 10px 20px;
-  background-color: gold;
+  background-color: blue;
   color: white;
   text-decoration: none;
   border-radius: 5px;
@@ -17,7 +20,7 @@ My website
 .button {
   display: inline-block;
   padding: 10px 20px;
-  background-color: orange;
+  background-color: blue;
   color: white;
   text-decoration: none;
   border-radius: 5px;
